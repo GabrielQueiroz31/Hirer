@@ -64,3 +64,9 @@ Facilitar a conexão entre profissionais e empresas, reduzindo dificuldades comu
 | RNF13 | O sistema deve possuir mecanismos de backup para recuperação de dados. |
 | RNF14 | A interface deve seguir boas práticas de acessibilidade. |
 | RNF15 | O sistema deve apresentar mensagens claras de erro e confirmação das operações realizadas. |
+
+## Prototipagem
+
+O protótipo do Hirer foi desenvolvido utilizando o Google Stitch, contemplando as versões web e mobile da plataforma.
+
+[Hirer - Google Stitch](https://stitch.withgoogle.com/projects/6388832986023546831)
