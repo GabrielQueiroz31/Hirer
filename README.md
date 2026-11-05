@@ -1,10 +1,10 @@
 # Hirer
 
-**Plataforma de recrutamento e seleção baseada em compatibilidade profissional.**
+**Plataforma de recrutamento e seleção web e mobile baseada em compatibilidade profissional.**
 
 ## Sobre o projeto
 
-O Hirer é uma plataforma web que conecta candidatos e empresas por meio de um sistema de compatibilidade profissional, tornando o processo de recrutamento mais simples, rápido e eficiente.
+O Hirer é uma plataforma web e mobile que conecta candidatos e empresas por meio de um sistema de compatibilidade profissional, tornando o processo de recrutamento mais simples, rápido e eficiente.
 
 ## Funcionalidades
 
